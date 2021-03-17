@@ -2,6 +2,6 @@ Bundle-Name: NUR Native Serial Transport
 Bundle-SymbolicName: com.nordicid.nativeserial
 Bundle-Version: 1.9.1.3
 Bundle-ManifestVersion: 2
-Bundle-Vendor: Nordic ID
+Bundle-Vendor: Menucha Team <info@menucha.de>
 Import-Package: com.nordicid.nurapi
 Export-Package: com.nordicid.nativeserial
